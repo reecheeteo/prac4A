@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">prac4</string>
+    <string name="DownPayment">TextView</string>
+    <string name="LoanPeriod">TextView</string>
+    <string name="InterestRate">TextView</string>
+    <string name="CarPrice">TextView</string>
+    <string name="load_period">Load Period</string>
+    <string name="car_price">Car Price</string>
+    <string name="down_payment">Down Payment</string>
+    <string name="ineterest_rate">Ineterest Rate</string>
+    <string name="SubmitButton">Submit</string>
+    <string name="textview">Rm 0.00</string>
+    <string name="MPA">MonthPayA</string>
+    <string name="InterestA">InterestA</string>
+    <string name="CarLoanA">CarLoanA</string>
+    <string name="MonthlyPayment">MonthlyPayment</string>
+    <string name="Interest">Interest</string>
+    <string name="CarLoan">CarLoan</string>
+    <string name="Carprice">CarPrice</string>
+</resources>
